@@ -1,0 +1,11 @@
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\bin\Debug\ProjetoLeds.exe.config
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\bin\Debug\ProjetoLeds.exe
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\bin\Debug\ProjetoLeds.pdb
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.Form1.resources
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.Properties.Resources.resources
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.csproj.GenerateResource.cache
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.exe
+C:\Users\Rony\Desktop\ProjetoLeds\ProjetoLeds\obj\Debug\ProjetoLeds.pdb
